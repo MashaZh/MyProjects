@@ -10,4 +10,4 @@ public class Main {
         tricktrack.game();
     }
 }
-//41
+//12
