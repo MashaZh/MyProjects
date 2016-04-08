@@ -50,5 +50,4 @@ public class Field {
             System.out.println();
         }
     }
- //comment2
-}
+ }
